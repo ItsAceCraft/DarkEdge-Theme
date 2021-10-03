@@ -1,5 +1,5 @@
-# DarkEdge Theme, A Free Pterodactyl Theme by ItsAceCraft!
-Description: Dark Mode Theme
+# DarkEdge Theme! A Free Pterodactyl Theme by ItsAceCraft.
+Description: Dark, Free and v1.0+
 
 Compatible Pterodactyl Versions:    
 v1.0 and Above [Currently 1.6.2 | At 3/10/21]
