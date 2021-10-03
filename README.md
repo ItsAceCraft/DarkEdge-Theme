@@ -1,4 +1,4 @@
-# DarkEdge-Theme | A Free Pterodactyl Theme by ItsAceCraft!
+# DarkEdge Theme | A Free Pterodactyl Theme by ItsAceCraft!
 Description: Dark Mode Theme
 
 Notes:
